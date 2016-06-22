@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">SMARTSearch</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="agregar">Agregar</string>
+    <string name="buscar">Buscar</string>
+    <string name="buscarlegend">Busca tu peluchito</string>
+    <string name="ventalegend">Adopta un peluchito</string>
+    <string name="ventaventalegend">Cuantos peluchitos quieres llevar?</string>
+
+    <string name="actualizar">Actualizar</string>
+    <string name="actualizarlegend">Actualizar peluchitos</string>
+    <string name="agregarlegend">Actualizar peluchitos</string>
+    <string name="eliminarlegend">Eliminar peluchito, ingrese nombre</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string-array name="Tags">
+        <item>Inicio</item>
+        <item>Cuenta</item>
+        <item>Clases Programadas</item>
+        <item>Notas</item>
+        <item>Bibliografia</item>
+        <item>Acerca de...</item>
+    </string-array>
+    <string name="usuario">Usuario:</string>
+    <string name="contra">Contraseña:</string>
+    <string name="smartsearch">SmartSearch</string>
+
+    <string name="bienvenido">Bienvenido</string>
+
+    <string name="salones">Clases y Salones</string>
+    <string name="salon">Salón</string>
+    <string name="estudiantes">Estudiantes</string>
+    <string name="estud">Estudiante</string>
+    <string name="profesores">Profesores</string>
+    <string name="profe">Profesor</string>
+
+
+    <string name="ingresar">Ingresar</string>
+    <string name="modificar">Modificar</string>
+    <string name="horario">Horario: </string>
+
+    <string-array name="horariossemana">
+        <item>Clase:   </item>
+        <item>6:00-07:30</item>
+        <item>07:30-09:00</item>
+        <item>09:00-10:30</item>
+        <item>10:30-12:00</item>
+        <item>12:00-13:30</item>
+        <item>13:30-15:00</item>
+        <item>15:00-16:30</item>
+        <item>16:30-18:00</item>
+        <item>18:00-19:30</item>
+        <item>19:30-21:00</item>
+    </string-array>
+
+
+    <string name="libros">Libros</string>
+    <string name="l1">Libro 1</string>
+    <string name="l2">Libro 2</string>
+    <string name="l3">Libro 3</string>
+    <string name="l4">Libro 4</string>
+
+
+    <string name="nombre">Nombres:</string>
+    <string name="apellidos">Apellidos: </string>
+    <string name="documento">Documento de identidad:</string>
+    <string name="correo">Correo:</string>
+    <string name="tel">Teléfono:</string>
+    <string name="cel">Celular:</string>
+    <string name="libro">Libro:</string>
+    <string name="contrato">Número de contrato:</string>
+    <string name="finalizacion">Fecha finalización de contrato:</string>
+    <string name="clasesprogramadas">Clases Programadas</string>
+    <string name="notas">Notas</string>
+    <string name="programarclases">Programar Clases</string>
+    <string name="eliminarclases">Eliminar Clases</string>
+    <string name="welcome">BIENVENIDO</string>
+
+    <string name="AgrSa">¿Seguro que desea programar la clase?</string>
+    <string name="EliSa">¿Seguro que desea eliminar la clase?</string>
+    <string name="AgrEs">¿Seguro que desea agregar el nuevo estudiante?</string>
+    <string name="MofEs">¿Seguro que desea modificar los datos del estudiante?</string>
+    <string name="EliEs">¿Seguro que desea elimianar el estudiante?</string>
+</resources>
